@@ -1,4 +1,5 @@
 # amazon_clone
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Full Stack Amazon Clone with Admin Panel using Flutter, Node, MongoDB
+>>>>>>> bf59bc50c8def1214164726fd8c0a537e44f19de
