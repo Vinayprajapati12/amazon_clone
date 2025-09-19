@@ -10,7 +10,7 @@ const productRouter = require('./routes/product');
 const userRouter = require('./routes/user');
 
 //INIT
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 const app = express();
 const DB = "mongodb+srv://vinay:vinaymongodb@cluster0.nm6pt5v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
